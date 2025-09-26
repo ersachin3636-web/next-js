@@ -4,3 +4,14 @@ next js --
 (then enter kro fir vo puchhhega ki apne project ka name kya rkhna hai fir name set kro, type script,eslint, tailwin css, code insider, app router,turbopack(no rhega))
 (ye sb yes krte chlna hai then latest NJ install ho jayega) then install hone ke bad cd krne project me jana hai
 3-run project ->(npm run dev)
+
+4- route->
+all route must live in inside the app folder (means src ke nadr ek foldar bnao app)
+route file must be name either page.js or page.tsx
+eatch folder represent a segment of the file automatically become avilable as a route 
+
+5- nested route->
+maine ek blog nma eka foldar bnaya then uske nadr first and second name ka foldar bnaya then en dono ke nadr ek ek file page.txs dal ke code likha(but ye statics consept ho gya)
+
+6- daynamic route-> maine sabse pahle product vala foldar bnaya then uske andr [productId] name ka foladr bnay (means eska es type ka foldar NJ me daynamic route bnata hai)
+
