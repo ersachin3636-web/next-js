@@ -1,0 +1,6 @@
+next js --
+1-sabse pahle next js ko  install krne ke liye env set krna bahut zaruri hai node js  ka\
+2- NJ ko install krne ke liye 1st cmd->(npx create-next-app@latest ) or (npx create-next-app@latest project-name)
+(then enter kro fir vo puchhhega ki apne project ka name kya rkhna hai fir name set kro, type script,eslint, tailwin css, code insider, app router,turbopack(no rhega))
+(ye sb yes krte chlna hai then latest NJ install ho jayega) then install hone ke bad cd krne project me jana hai
+3-run project ->(npm run dev)
