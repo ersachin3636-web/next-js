@@ -14,4 +14,8 @@ eatch folder represent a segment of the file automatically become avilable as a 
 maine ek blog nma eka foldar bnaya then uske nadr first and second name ka foldar bnaya then en dono ke nadr ek ek file page.txs dal ke code likha(but ye statics consept ho gya)
 
 6- daynamic route-> maine sabse pahle product vala foldar bnaya then uske andr [productId] name ka foladr bnay (means eska es type ka foldar NJ me daynamic route bnata hai)
+7- catch all segment (route me jo rhega vo apne aap print ho jayega page me)
+8-404 page custom-> src ke andr app ke andr create kro not-found 
+9-private foldar-> means _lib nam eka maine ek foldra bnaya then url me call kiya usko to call nhi huaa 
+10- route group->
 
