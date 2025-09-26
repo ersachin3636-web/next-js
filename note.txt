@@ -18,4 +18,7 @@ maine ek blog nma eka foldar bnaya then uske nadr first and second name ka folda
 8-404 page custom-> src ke andr app ke andr create kro not-found 
 9-private foldar-> means _lib nam eka maine ek foldra bnaya then url me call kiya usko to call nhi huaa 
 10- route group->
+11-params and searchParams
+12-Navigating Programmatically
+13 Loading UI
 
